@@ -18,13 +18,20 @@
   
   ### 💻 Технологии: 
 <p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<img src= Assets/swift.png width="36" height="36" /></a>
+<img src= Assets/firebase.png width="36" height="36" /></a>
+<img src= Assets/swiftui.png width="36" height="36"/></a>
+<img src= Assets/coredata.png width="36" height="36"/></a>
+<img src= Assets/realm.png width="36" height="36"/></a>
+<img src= Assets/cocoapods.png width="36" height="36"/></a>
+<img src= Assets/json.png width="36" height="36"/></a>
 
 ---
 
   ### 🛠 Инструменты: 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
+<img src= Assets/figma.png width="36" height="36" /></a>
+<img src= Assets/xcode.png width="36" height="36" /></a>
+<img src= Assets/github.png width="36" height="36"/></a>
 
 ---
 
