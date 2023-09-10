@@ -14,6 +14,16 @@
   
 *  📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ospanovadinara-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sheisdi) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dinaraosspanova@gmail.com)
 
+ ---
+### 💻 Пройденные курсы:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| udemy.com/Complete iOS App Development Bootcamp                 | 03/2023 - 07/2023 |
+| swiftbook.org/Основые программирования                          | 05/2023 - 05/2023 |
+| facebook.com/ASMSAlmaty/iOS Development course                  | 06/2023 - 07/2023 |
+| practicum.yandex/Курс по iOS разработке                         | 05/2023 - xx/2024 |
+
   ---
   
   ### 💻 Технологии: 
@@ -38,9 +48,13 @@
 ### 🌐 Социальные сети:
  <p align="left">
  <a href="https://www.github.com/ospanovadinara" target="_blank" rel="noreferrer">
- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a>
-<a href="http://www.instagram.com/osspanova.dinara" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="undefined" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></picture></a>
-<a href="https://www.linkedin.com/in/dinaraosspanova" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a></p>
+ <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture>
+ </a>
+<a href="http://www.instagram.com/osspanova.dinara" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="undefined" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></picture>
+</a>
+<a href="https://www.linkedin.com/in/dinaraosspanova" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture>
+</a>
+ </p>
 
 ---
 
