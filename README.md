@@ -7,9 +7,7 @@
 * 📍 Нахожусь в городе Алматы (Казахстан), но открыта к карьерным возможностям, в том числе и в Астане.
   
 *  🔭 Изучаю iOS-разработку на курсе Яндекс Практикума.
-  
-*  ⚡ Прохожу стажировку Start iOS, где набираюсь опыта коммерческой разработки.
-    
+      
 *  📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ospanovadinara-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sheisdi) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dinaraosspanova@gmail.com)
 
  ---
