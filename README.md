@@ -17,7 +17,6 @@
 | swiftbook.org/Основые программирования                          | 05/2023 - 05/2023 |
 | facebook.com/ASMSAlmaty/iOS Development course                  | 06/2023 - 07/2023 |
 | practicum.yandex/Курс по iOS разработке                         | 05/2023 - xx/2024 |
-| qwasar.io/Software Engineering Bootcamp                         | 10/2023 - хх/2024 |
 
   ---
   
