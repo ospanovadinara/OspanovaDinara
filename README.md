@@ -1,35 +1,44 @@
 # Привет, меня зовут Динара!
 
 ### 👩🏻‍💻 Обо мне:
-Я начинающая iOS-разработчица . Мой путь в разработке начался в начале 2023 года с самостоятельного изучения Swift. С тех пор, я постоянно углубляю свои знания и улучшаю технические навыки. Летом 2023 года я приобрела опыт коммерческий разработки в студии Start Mobile. Во время стажировки разрабатывала часть функционала приложения по трансграничной доставке посылок в другие страны. В настоящее время обучаюсь iOS-разработке в Яндекс Практикуме. 
+Я начинающая iOS-разработчица . Мой путь в разработке начался в начале 2023 года с самостоятельного изучения Swift. С тех пор, я постоянно углубляю свои знания и улучшаю технические навыки. Летом 2023 года я приобрела опыт коммерческий разработки в студии Start Mobile. Во время стажировки разрабатывала часть функционала приложения по трансграничной доставке посылок в другие страны. В мае 2024 года завершила обучение по программе профессиональной переподготовки по профессии "iOS-разработчик" в Яндекс Практикуме. 
 
-
-* 📍 Нахожусь в городе Алматы (Казахстан), но открыта к карьерным возможностям, в том числе и в Астане.
+* 📍 Нахожусь в городе Алматы (Казахстан), но открыта к карьерным возможностям и в Астане.
         
-*  📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ospanovadinara-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sheisdi) [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dinaraosspanova@gmail.com)
+*  📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dinaraospan) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dinaraosspanova@gmail.com)
 
  ---
 ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| udemy.com/Complete iOS App Development Bootcamp                 | 03/2023 - 07/2023 |
-| swiftbook.org/Основые программирования                          | 05/2023 - 05/2023 |
+| practicum.yandex/Курс по iOS разработке                         | 05/2023 - 04/2024 |
 | facebook.com/ASMSAlmaty/iOS Development course                  | 06/2023 - 07/2023 |
-| practicum.yandex/Курс по iOS разработке                         | 05/2023 - 05/2024 |
+| swiftbook.org/Основые программирования                          | 05/2023 - 05/2023 |
+| udemy.com/Complete iOS App Development Bootcamp                 | 03/2023 - 07/2023 |
 
   ---
   
   ### 💻 Технологии: 
-<p align="left">
-<img src= Assets/swift.png width="36" height="36" /></a>
-<img src= Assets/firebase.png width="36" height="36" /></a>
-<img src= Assets/swiftui.png width="36" height="36"/></a>
-<img src= Assets/coredata.png width="36" height="36"/></a>
-<img src= Assets/realm.png width="36" height="36"/></a>
-<img src= Assets/cocoapods.png width="36" height="36"/></a>
-<img src= Assets/json.png width="36" height="36"/></a>
-
+<p align="center">
+<img style="pointer-events: none;" src="https://img.shields.io/badge/Swift-%23ED8B00.svg?style=for-the-badge&logo=swift&logoColor=white">
+<img style="pointer-events: none;" src="https://img.shields.io/badge/Firebase-00dae6?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/CoreData-039BE5?style=for-the-badge&logo=CoreData&logoColor=FFCC2F">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVC-c600c7?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVVM-00d67c?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVP-00dae6?style=for-the-badge&logoColor=white">
+   </br>
+      <img style="pointer-events: none;" src="https://img.shields.io/badge/UIKit-039BE5?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/AutoLayout-00d67c?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/SnapKit-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Cocoapods-fe9c1b?style=for-the-badge&logoColor=white">
+    <img style="pointer-events: none;" src="https://img.shields.io/badge/Git-039BE5?style=for-the-badge&logoColor=white">
+     <img style="pointer-events: none;" src="https://img.shields.io/badge/JSON-c600c7?style=for-the-badge&logoColor=white">
+  </br>
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Networking-fe9c1b?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Unit tests-0e61ea?style=for-the-badge&logoColor=white">
+   </br>
+</p> 
 ---
 
   ### 🛠 Инструменты: 
